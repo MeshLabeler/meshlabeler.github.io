@@ -3,13 +3,12 @@
 
 
 ```mermaid
-graph TB
-A[Unlabeled Dataset] --- B((Worker#1))
-A --- C((Worker#2))
-A --- D((Worker#3))
-A --- E((...))
-A --- F((Worker#n))
-
+graph TD;
+A[Unlabeled Dataset] --- B((Worker#1));
+A --- C((Worker#2));
+A --- D((Worker#3));
+A --- E((...));
+A --- F((Worker#n));
 ```
 
 ### Supported :
@@ -20,7 +19,7 @@ A --- F((Worker#n))
 | Video | mp4 | Segmentation, Label, Multi-label |Not yet
 | Audio | wav | Segmentation, Label, Multi-label |Not yet
 
-###**Limitation :**
+### **Limitation :**
 
  - Manage only one dataset at a time.
  - Save file will produce a file.
