@@ -14,13 +14,20 @@ A --- F((Worker#n));
 ### Objective
 Once an enthusiast tried to help the world then he collected some raw data or curiously or for research purpose, he tried something new with the existing information.
 ![ Once an enthusiast tried to help the world ](https://raw.githubusercontent.com/MeshLabeler/meshlabeler.github.io/main/img/pre.png)
+
 But he needed to be labeled this unlabeled the new dataset, segment the unsegmented image or map the action segment of the video data. Thus he wanted the help of his well wishers, team members. The job became very painful as he has to collaborate this large dataset by excel sheet or some tools. Also need to do a small brief on the tools.  
 ![enter image description here](https://raw.githubusercontent.com/MeshLabeler/meshlabeler.github.io/main/img/traditional.png)
+
 But every of his friends now avoiding him and sorrowfully started to hate him. It persists and then...
+
 ![enter image description here](https://raw.githubusercontent.com/MeshLabeler/meshlabeler.github.io/main/img/world_destroyed.png)
+
 But to avoid these angers, annoyings and hates; This system with a friendly UI and easy collaborative with privately distributed network system helps to reduce the time and complexity for these labeling and segmenting tasks. 
+
 ![enter image description here](https://raw.githubusercontent.com/MeshLabeler/meshlabeler.github.io/main/img/soln.png)
+
 It is also a contributors friendly system where help together in a easy way to make the world better. 
+
 ![enter image description here](https://raw.githubusercontent.com/MeshLabeler/meshlabeler.github.io/main/img/better_world.png)
 
 ### Supported :
