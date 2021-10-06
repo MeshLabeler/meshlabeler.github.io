@@ -1,16 +1,16 @@
 
 # MeshLabeler
-**MeshLabeler** is a tool to help label the unlabeled (*i.e new or self made*) dataset manually over a private network so that together can make the task easier with a friendly UI.
+**MeshLabeler** is a tool to help labeling the unlabeled (*i.e new or self made*) dataset manually over a private network so that together can make the task easier by a friendly UI.
 
 ### Objective
-Once an enthusiast tried to help the world then he collected some raw data for curiousity or for research purpose or may be he tried something new with the existing information.  
+Once an enthusiast collected some raw data for curiousity or for research purpose or may be he tried something new with the existing information.  
   ![ Once an enthusiast tried to help the world ](https://raw.githubusercontent.com/MeshLabeler/meshlabeler.github.io/main/img/pre.png)
  
-But he needed to be labeled this unlabeled new dataset, segment the unsegmented image or map the action segment of the video data. Thus he wanted the help of his well wishers, team members. The job became very hard as he had to collaborate this large dataset by excel sheet or some tools. Also needed to do a small brief on the tools.  
+For some reason he needed to be labeled this unlabeled new dataset, segment the unsegmented image or map the action segment of the video data. Thus he needed the helping hands. But the job became very hard as he had to collaborate this large dataset by excel sheet or some tools. Also needed to do a small brief on the tools.  
 
   ![enter image description here](https://raw.githubusercontent.com/MeshLabeler/meshlabeler.github.io/main/img/traditional.png)
 
-Now all of his friends now avoiding him and sorrowfully started to hate him. It persists and then...
+Now all of his friends are avoiding him and sorrowfully started to hate him. If this persists and after some days someday...
 
 ![enter image description here](https://raw.githubusercontent.com/MeshLabeler/meshlabeler.github.io/main/img/world_destroyed.png)
 
